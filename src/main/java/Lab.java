@@ -3,7 +3,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Sets are unordered collections of elements. Sets do not allow duplicates.
+ * Sets are unordered collections of elements. Sets do not allow duplicates. 
  *
  * Sets are very efficient for storing items that should be unique.
  *
